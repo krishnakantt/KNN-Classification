@@ -58,7 +58,7 @@ python KNN.py
 
 ## 📈 Example Output
 ```bash
-Model accuracy: 0.97
+Model accuracy: 1.0
 Classification report:
               precision    recall  f1-score   support
            0       1.00      1.00      1.00         9
